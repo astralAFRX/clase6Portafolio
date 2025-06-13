@@ -1,7 +1,7 @@
 #Primer proyecto en html clase 7gen43
 
 este es el primer readme que se subo pertenece a la clase7gen43
-etiquetas usadas en html
+etiquetas usadas en html:
 -main
 -header
 -nav
