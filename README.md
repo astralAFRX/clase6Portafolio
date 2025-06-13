@@ -2,14 +2,15 @@
 
 este es el primer readme que se subo pertenece a la clase7gen43
 etiquetas usadas en html:
--main
--header
--nav
--form
--a
--ul
--oi
--li
+
+- main
+- header
+- nav
+- form
+- a
+- ul
+- oi
+- li
 
 este proyecto a sido realizado siguiendo las clases grabadas
 para ver este proyecto da click en el siguiente enlace
