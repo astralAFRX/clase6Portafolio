@@ -12,7 +12,8 @@ etiquetas usadas en html
 -li
 
 este proyecto a sido realizado siguiendo las clases grabadas
-para ver este proyecto da click en el siguiente enlace [link] (astralafrx.github.io/clase6Portafolio/).
+para ver este proyecto da click en el siguiente enlace
+ [link](https://astralafrx.github.io/clase6Portafolio/)
 
-##autor 
-creado por  [AstralAFRX] (https://github.com/astralAFRX) - 
+## AUTOR 
+creado por  [AstralAFRX](https://github.com/astralAFRX)
